@@ -1,0 +1,8 @@
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\bin\Debug\Bai_KT.exe.config
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\bin\Debug\Bai_KT.exe
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\bin\Debug\Bai_KT.pdb
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\obj\Debug\Bai_KT.csproj.AssemblyReference.cache
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\obj\Debug\Bai_KT.csproj.SuggestedBindingRedirects.cache
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\obj\Debug\Bai_KT.csproj.CoreCompileInputs.cache
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\obj\Debug\Bai_KT.exe
+C:\Project C#\Bai_KT_Giuaki\Bai_KT\Bai_KT\obj\Debug\Bai_KT.pdb
